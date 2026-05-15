@@ -1,0 +1,16 @@
+{
+  "SecurityGroups": [
+    {
+      "Name": "web-tier-sg",
+      "Ports": [80, 443]
+    },
+    {
+      "Name": "app-tier-sg",
+      "Ports": [8080]
+    },
+    {
+      "Name": "db-tier-sg",
+      "Ports": [3306]
+    }
+  ]
+}
