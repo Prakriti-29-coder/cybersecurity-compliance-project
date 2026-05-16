@@ -1,11 +1,5 @@
 # Security Architecture Document
 
-## Project Overview
-- **Project Name**: Cybersecurity & Compliance Implementation
-- **Date**: 2026-05-15
-- **Student**: Prakrit Dey
-- **AWS Region**: us-east-1
-
 ## Network Architecture
 
 ### VPC Details
@@ -111,5 +105,3 @@ Allows:
 - **Status**: Enabled
 - **Function**: Threat detection
 - **Findings**: Real-time alerts
-
-## Trust Boundaries
